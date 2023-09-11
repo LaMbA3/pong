@@ -1,4 +1,4 @@
-# Simple Pong - Pong Dong (Ovo je ta)
+# Simple Pong - Pong Dong
 
 This is very basic pong game created with Rust.
 
